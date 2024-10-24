@@ -6,7 +6,7 @@
 
 ###
 
-<h2 align="left">Tecnologias</h2>
+<h2 align="left">technologies</h2>
 
 ###
 
@@ -24,7 +24,7 @@
 
 ###
 
-<h2 align="left">Stats</h2>
+<h2 align="left">Estatísticas</h2>
 
 ###
 
@@ -35,7 +35,7 @@
 
 ###
 
-<h2 align="left">Social Media</h2>
+<h2 align="left">Redes sociais</h2>
 
 ###
 
