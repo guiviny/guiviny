@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">- 👨‍🎓 Estou cursando Ciência da Computação - 6º Semestre</p>
+<p align="left">- 👨‍🎓 Estou cursando Ciência da Computação - 7º Semestre</p>
 
 ###
 
