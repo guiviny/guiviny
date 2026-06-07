@@ -10,16 +10,11 @@
 
 ###
 
-<div align="left">
-  ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
-  ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript)
-  ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js)
-  ![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express)
-  ![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite)
-  ![Tailwind](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss)
-  ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
-  ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux)
-</div>
+## 💻 Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,vite,tailwind,nodejs,express,git,github,linux,vscode,postman" />
+</p>
 
 ###
 
