@@ -2,13 +2,13 @@
 
 ###
 
-<p align="center">- 👨‍🎓 Estou cursando Ciência da Computação - 7º Semestre</p>
+<p align="left">- 👨‍🎓 Estou cursando Ciência da Computação - 7º Semestre</p>
 
 ###
 
 ## 💻 Tech Stack
 
-<p align="center">
+<p align="left">
   <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,vite,tailwind,nodejs,express,git,github,linux,vscode,postman" />
 </p>
 
