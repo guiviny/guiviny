@@ -68,12 +68,4 @@
   </a>
 </p>
 
----
-
-<p align="left">
-  <img
-    src="https://komarev.com/ghpvc/?username=guiviny&label=Visualiza%C3%A7%C3%B5es&color=30363d&style=flat"
-    alt="Visualizações do perfil"
-  />
-</p>
 
