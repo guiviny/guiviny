@@ -63,26 +63,6 @@
 
 ---
 
-## Projetos
-
-### Portfólio
-
-Portfólio pessoal desenvolvido para apresentar meus projetos, habilidades e experiências.
-
-### Aplicação de clima
-
-Aplicação que consulta dados meteorológicos em tempo real e altera sua interface conforme as condições climáticas.
-
-### Formulário com validação
-
-Sistema de cadastro utilizando React Hook Form, Zod, TanStack Query e uma API simulada.
-
-### Calculadora
-
-Aplicação desenvolvida para praticar lógica de programação, gerenciamento de estado e criação de interfaces com React.
-
----
-
 ## Contato
 
 <p align="left">
