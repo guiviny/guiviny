@@ -28,8 +28,8 @@
 <h2 align="left">📊 Minhas Estatísticas</h2>
 
 <div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO_AQUI&show_icons=true&theme=tokyonight&locale=pt-br&hide_border=true" alt="Estatísticas do Guilherme" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO_AQUI&layout=compact&theme=tokyonight&locale=pt-br&hide_border=true" alt="Linguagens mais usadas" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=guilhermevfz&show_icons=true&theme=tokyonight&locale=pt-br&hide_border=true" alt="Estatísticas do Guilherme" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=guilhermevfz&layout=compact&theme=tokyonight&locale=pt-br&hide_border=true" alt="Linguagens mais usadas" height="150"/>
 </div>
 
 ###
