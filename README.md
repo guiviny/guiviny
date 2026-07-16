@@ -28,8 +28,7 @@
 <h2 align="left">📊 Minhas Estatísticas</h2>
 
 <div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=guiviny&show_icons=true&theme=tokyonight&locale=pt-br&hide_border=true" alt="Estatísticas do Guilherme" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=guiviny&layout=compact&theme=tokyonight&locale=pt-br&hide_border=true" alt="Linguagens mais usadas" height="150"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=guiviny&theme=tokyonight&hide_border=true&locale=pt_BR" alt="Estatísticas de Contribuição do Guilherme" height="150"/>
 </div>
 
 ###
