@@ -38,18 +38,6 @@
 
 ---
 
-## Estatísticas
-
-<p align="left">
-  <img
-    width="55%"
-    src="https://github-readme-streak-stats.herokuapp.com/?user=guiviny&theme=github-dark-blue&hide_border=true&locale=pt_BR"
-    alt="Sequência de contribuições de Guilherme"
-  />
-</p>
-
----
-
 ## Contato
 
 <p align="left">
