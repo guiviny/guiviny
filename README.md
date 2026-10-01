@@ -21,7 +21,7 @@
 
 - Cursando Ciência da Computação
 - Focado em desenvolvimento Full Stack
-- Estudando React, TypeScript, Next.js, Node.js e Express
+- Estudando React, TypeScript, Next.js, Nestjs, Node.js e Express
 - Buscando oportunidade como estagiário ou desenvolvedor júnior
 - Desenvolvendo projetos para aprimorar minhas habilidades
 
