@@ -31,7 +31,7 @@
 
 <p align="left">
   <img
-    src="https://skillicons.dev/icons?i=html,css,js,ts,java,react,nextjs,vite,tailwind,nodejs,express,git,github,linux,vscode,postman&theme=dark"
+    src="https://skillicons.dev/icons?i=html,css,js,ts,java,sql,react,nextjs,vite,tailwind,nodejs,express,git,github,linux,vscode,postman&theme=dark"
     alt="Tecnologias"
   />
 </p>
